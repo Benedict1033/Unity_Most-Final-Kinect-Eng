@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Home.unity
+    guid: e3e0c190cceee264baa4fa8954dcf345
+  - enabled: 1
+    path: Assets/Part 1/Scenes/1.Easy.unity
+    guid: 91e2ea016ef23e844958ee55a3ecc67a
+  - enabled: 1
+    path: Assets/Part 1/Scenes/1.Normal.unity
+    guid: 4cb5b7cf8826bc04ca1cdff1a0ad6afc
+  - enabled: 1
+    path: Assets/Part 1/Scenes/1.Puzzle.unity
+    guid: fe2e753417eb0f546828ee7af54f1ae2
+  - enabled: 1
+    path: Assets/Part 2/Scenes/2.Easy.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Part 2/Scenes/2.Normal.unity
+    guid: 94ec723259268924bbd77fd7cf600e19
+  - enabled: 1
+    path: Assets/Part 2/Scenes/2.Puzzle.unity
+    guid: eeb152c7c413ba24f8c2edb46206d31d
+  - enabled: 1
+    path: Assets/Part 3/Scenes/3.Easy.unity
+    guid: 981bf96f9a8f6824aa0cf65759d23681
+  - enabled: 1
+    path: Assets/Part 3/Scenes/3.Normal.unity
+    guid: 07818aafa95acbc45888eb33a70cbdb3
+  - enabled: 1
+    path: Assets/Part 3/Scenes/3.Puzzle.unity
+    guid: c20f229c7ecf96c4c9e3cab1133b9ab3
+  - enabled: 1
+    path: Assets/Part 4/Scenes/4.Easy.unity
+    guid: d9c29437325798b4c8d71c5c2a50f523
+  - enabled: 1
+    path: Assets/Part 4/Scenes/4.Normal.unity
+    guid: 8913e73ec73255d4dab8b4dad742995c
+  - enabled: 1
+    path: Assets/Part 4/Scenes/4.Puzzle.unity
+    guid: 09abafde82ca5a645bbe8a30cc434fa7
+  - enabled: 1
+    path: Assets/final start.unity
+    guid: 3c164595672e91f458b6ed21761a260d
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Part 5/Scenes/5.Easy.unity
+    guid: 1f35d952ffbf99449b3d780021e0dae9
+  - enabled: 1
+    path: Assets/Part 5/Scenes/5.Normal.unity
+    guid: 3353e368c852ca644afa6cb5ee4497bf
+  - enabled: 1
+    path: Assets/Part 5/Scenes/5.Puzzle.unity
+    guid: efe07dee1ef863a4f8a2975bc8c8f70f
+  - enabled: 1
+    path: Assets/Part 6/Scenes/6.Easy.unity
+    guid: c9d4e19677257034d8b9a36b539ac199
+  - enabled: 1
+    path: Assets/Part 6/Scenes/6.Normal.unity
+    guid: 2718cbe3aef657441a26b08b01a32e7e
+  - enabled: 1
+    path: Assets/Part 6/Scenes/6.Puzzle.unity
+    guid: 2c5545017bcfd8942b1a21d741345929
+  m_configObjects: {}
